@@ -1,0 +1,3 @@
+[submodule "gst-template"]
+	path = gst-template
+	url = https://gitlab.freedesktop.org/gstreamer/gst-template.git
