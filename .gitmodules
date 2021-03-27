@@ -1,3 +1,6 @@
 [submodule "gst-template"]
 	path = gst-template
 	url = https://gitlab.freedesktop.org/gstreamer/gst-template.git
+[submodule "gst-docs"]
+	path = gst-docs
+	url = https://gitlab.freedesktop.org/gstreamer/gst-docs.git
